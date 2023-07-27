@@ -2460,7 +2460,7 @@ p{
 }
 .modal-wrap p {
   padding: 20px 30px 0 30px;
-  font-size: 13px;
+  font-size: 10px;
 }
 .modal-btn:checked ~ .modal .modal-wrap{
   opacity: 1;
